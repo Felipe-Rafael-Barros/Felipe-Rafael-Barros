@@ -41,6 +41,7 @@ Sou apaixonado por tecnologia, com foco em backend, APIs REST, e sistemas bem es
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
@@ -49,41 +50,53 @@ Sou apaixonado por tecnologia, com foco em backend, APIs REST, e sistemas bem es
 ## 🧩 Projetos em Destaque
 
 - 🚗 **Sistema de Estacionamento em C#**
-  - Projeto com cadastro de veículos, controle de tempo e geração de relatórios usando POO.
+  - Cadastro de veículos, controle de tempo e relatórios usando POO.
 
 - 📋 **Gerenciador de Tarefas (C# + EF)**
-  - Web API com CRUD completo e persistência em banco SQL.
+  - Web API com CRUD completo e banco SQL.
 
 - 🌐 **Site Pessoal com Angular**
-  - Projeto frontend com HTML, CSS e TypeScript para showcase de habilidades.
+  - HTML, CSS e TypeScript com design responsivo.
 
 - 🧾 **API de Obrigações Fiscais (FastAPI)**
-  - API REST com PostgreSQL, SQLAlchemy e estrutura de entidades empresariais.
+  - API REST com PostgreSQL, SQLAlchemy e estrutura modular de entidades.
 
 ---
-
-## 📊 Contribuições GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Rafael-Barros&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Rafael-Barros&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
-## 📚 Formação
-
-- **UNINASSAU** — Análise e Desenvolvimento de Sistemas  
-  <sub>Previsão de Conclusão: Dezembro/2026</sub>
 
 ## 🏅 Certificações
 
-- C# com .NET — Randstad/DIO  
-- Desenvolvimento Web (HTML, CSS, JS) — Curso em Vídeo  
-- Java Cloud Native — Bradesco (em andamento)
+- ✅ **WEX - End to End Engineering** *(04/2025 - 06/2025)*  
+  C# com .NET, Docker, AWS e QA - DIO
+
+- 🚀 **Santander 2025 - Front-End** *(Iniciado em 06/2025)*  
+  HTML, CSS, JavaScript, React e Soft Skills - DIO
+
+- 🧠 **C# com .NET - Randstad / DIO** *(Concluído)*
+
+- 🌐 **Desenvolvimento Web (HTML, CSS e JS)** — Curso em Vídeo *(Fev/2025)*
+
+---
+
+## 🎓 Formação Acadêmica
+
+**UNINASSAU** — Análise e Desenvolvimento de Sistemas  
+📅 Previsão de Conclusão: Dezembro/2026 | 🌙 Turno: Noturno
+
+---
+
+## 📈 Contribuições Recentes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Rafael-Barros&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🐍 Snake Game das Contribuições
+
+<p align="center">
+  <img src="https://github.com/Felipe-Rafael-Barros/Felipe-Rafael-Barros/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
