@@ -1,9 +1,10 @@
-<h1 align="center">Felipe Barros</h1>
-<h3 align="center">Desenvolvedor Full Stack em Formação</h3>
+<h1 align="center">👨‍💻 Felipe Barros</h1>
+<h3 align="center">Desenvolvedor Full Stack em Formação | Recife - PE</h3>
 
 <p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> na UNINASSAU, com sólida base em lógica, experiência prática em projetos web/backend e paixão por aprender.<br>
-  Atualmente focado no desenvolvimento de <strong>APIs, sistemas escaláveis</strong> e interfaces interativas com tecnologias modernas.
+  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNINASSAU.<br>
+  💻 Foco em desenvolvimento de sistemas web, APIs, backend com C#, e frontend com Angular/React.<br>
+  🚀 Buscando sempre evoluir com projetos práticos, desafios técnicos e boas práticas de código limpo.
 </p>
 
 <p align="center">
@@ -11,7 +12,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Felipe-Rafael-Barros">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://wa.me/5581987904287">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -20,77 +21,72 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🧠 Sobre Mim
 
-- 🔧 **Sistema de Estacionamento em C#**
-  > Cadastro de veículos, cálculo de tempo de permanência e relatórios com POO.
-
-- 📋 **Gerenciador de Tarefas com C# e Entity Framework**
-  > Web API com operações CRUD, banco SQL integrado e arquitetura escalável.
-
-- 🌐 **Site pessoal com Angular**
-  > HTML, CSS e TypeScript com foco em design simples e navegação fluida.
-
-- 🧾 **API de Obrigações Fiscais**
-  > FastAPI + SQLAlchemy + PostgreSQL para gerenciar empresas e obrigações acessórias.
+Sou apaixonado por tecnologia, com foco em backend, APIs REST, e sistemas bem estruturados. Atuo com C#, Python, Java, Angular, React e bancos de dados SQL/PostgreSQL/MongoDB.
 
 ---
 
-### 🛠️ Habilidades Técnicas
-
-#### Linguagens
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-#### Web e Frameworks
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-#### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-#### Outros
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-### 📈 Contribuições Recentes
+## 🛠️ Habilidades
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Rafael-Barros&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Rafael-Barros&layout=compact&theme=radical" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
 ---
 
-### 🎓 Formação Acadêmica
+## 🧩 Projetos em Destaque
 
-**Análise e Desenvolvimento de Sistemas**  
-UNINASSAU - Previsão de Conclusão: Dez/2026  
-Turno: Noturno
+- 🚗 **Sistema de Estacionamento em C#**
+  - Projeto com cadastro de veículos, controle de tempo e geração de relatórios usando POO.
+
+- 📋 **Gerenciador de Tarefas (C# + EF)**
+  - Web API com CRUD completo e persistência em banco SQL.
+
+- 🌐 **Site Pessoal com Angular**
+  - Projeto frontend com HTML, CSS e TypeScript para showcase de habilidades.
+
+- 🧾 **API de Obrigações Fiscais (FastAPI)**
+  - API REST com PostgreSQL, SQLAlchemy e estrutura de entidades empresariais.
 
 ---
 
-### 📚 Certificações
+## 📊 Contribuições GitHub
 
-- Backend com C# e .NET — Randstad / DIO (Out-Dez 2024)  
-- Desenvolvimento Web — Curso em Vídeo (Jan-Fev 2025)  
-- Java Cloud Native — Bradesco (Em andamento)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Rafael-Barros&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Rafael-Barros&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 📚 Formação
+
+- **UNINASSAU** — Análise e Desenvolvimento de Sistemas  
+  <sub>Previsão de Conclusão: Dezembro/2026</sub>
+
+## 🏅 Certificações
+
+- C# com .NET — Randstad/DIO  
+- Desenvolvimento Web (HTML, CSS, JS) — Curso em Vídeo  
+- Java Cloud Native — Bradesco (em andamento)
 
 ---
 
 <p align="center">
-  <em>“Código limpo e soluções escaláveis são o caminho para a excelência.”</em>
+  <strong>“Transformando ideias em código, com foco em performance e usabilidade.”</strong>
 </p>
