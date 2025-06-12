@@ -23,7 +23,8 @@
 
 ## 🧠 Sobre Mim
 
-Sou apaixonado por tecnologia, com foco em backend, APIs REST, e sistemas bem estruturados. Atuo com C#, Python, Java, Angular, React e bancos de dados SQL/PostgreSQL/MongoDB.
+Sou apaixonado por tecnologia, com foco em backend, APIs REST e sistemas bem estruturados.  
+Atuo com C#, Python, Java, Angular, React e bancos de dados como PostgreSQL e MongoDB.
 
 ---
 
@@ -53,7 +54,7 @@ Sou apaixonado por tecnologia, com foco em backend, APIs REST, e sistemas bem es
   - Cadastro de veículos, controle de tempo e relatórios usando POO.
 
 - 📋 **Gerenciador de Tarefas (C# + EF)**
-  - Web API com CRUD completo e banco SQL.
+  - Web API com CRUD completo, banco SQL e Entity Framework.
 
 - 🌐 **Site Pessoal com Angular**
   - HTML, CSS e TypeScript com design responsivo.
@@ -65,37 +66,34 @@ Sou apaixonado por tecnologia, com foco em backend, APIs REST, e sistemas bem es
 
 ## 🏅 Certificações
 
-- ✅ **WEX - End to End Engineering** *(04/2025 - 06/2025)*  
-  C# com .NET, Docker, AWS e QA - DIO
-
-- 🚀 **Santander 2025 - Front-End** *(Iniciado em 06/2025)*  
-  HTML, CSS, JavaScript, React e Soft Skills - DIO
-
-- 🧠 **C# com .NET - Randstad / DIO** *(Concluído)*
-
-- 🌐 **Desenvolvimento Web (HTML, CSS e JS)** — Curso em Vídeo *(Fev/2025)*
+| Curso | Data | Status | Conteúdo |
+|-------|------|--------|----------|
+| **Santander 2025 - Front-End** | Jun/2025 – Atual | ⏳ Em andamento | HTML, CSS, JS, React, Soft Skills |
+| **WEX - End to End Engineering (DIO)** | Abr/2025 – Jun/2025 | ✅ Concluído | Docker, AWS, QA, C# com .NET |
+| **Backend com C# e .NET (Randstad/DIO)** | Out/2024 – Dez/2024 | ✅ Concluído | API, EF, Banco de Dados, POO |
+| **Desenvolvimento Web (Curso em Vídeo)** | Jan/2025 – Fev/2025 | ✅ Concluído | HTML, CSS, JS |
 
 ---
 
 ## 🎓 Formação Acadêmica
 
 **UNINASSAU** — Análise e Desenvolvimento de Sistemas  
-📅 Previsão de Conclusão: Dezembro/2026 | 🌙 Turno: Noturno
-
----
-
-## 📈 Contribuições Recentes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Rafael-Barros&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</p>
+📅 Dez/2026 (Previsão) | 🌙 Turno: Noturno
 
 ---
 
 ## 🐍 Snake Game das Contribuições
 
 <p align="center">
-  <img src="https://github.com/Felipe-Rafael-Barros/Felipe-Rafael-Barros/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/Felipe-Rafael-Barros/Felipe-Rafael-Barros/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+## 🪪 Cartão de Perfil (GitHub Profile Card)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-Rafael-Barros&theme=github_dark" />
 </p>
 
 ---
