@@ -80,13 +80,6 @@ Atuo com C#, Python, Java, Angular, React e bancos de dados como PostgreSQL e Mo
 **UNINASSAU** — Análise e Desenvolvimento de Sistemas  
 📅 Dez/2026 (Previsão) | 🌙 Turno: Noturno
 
----
-
-## 🐍 Snake Game das Contribuições
-
-<p align="center">
-  <img src="https://github.com/Felipe-Rafael-Barros/Felipe-Rafael-Barros/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 ---
 
