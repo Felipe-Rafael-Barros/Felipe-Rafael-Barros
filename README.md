@@ -83,13 +83,6 @@ Atuo com C#, Python, Java, Angular, React e bancos de dados como PostgreSQL e Mo
 
 ---
 
-## 🪪 Cartão de Perfil (GitHub Profile Card)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-Rafael-Barros&theme=github_dark" />
-</p>
-
----
 
 <p align="center">
   <strong>“Transformando ideias em código, com foco em performance e usabilidade.”</strong>
