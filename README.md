@@ -1,10 +1,10 @@
-<h1 align="center">👨‍💻 Felipe Barros</h1>
+<h1 align="center"> Felipe Barros</h1>
 <h3 align="center">Desenvolvedor Full Stack em Formação | Recife - PE</h3>
 
 <p align="center">
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNINASSAU.<br>
-  💻 Foco em desenvolvimento de sistemas web, APIs, backend com C#, e frontend com Angular/React.<br>
-  🚀 Buscando sempre evoluir com projetos práticos, desafios técnicos e boas práticas de código limpo.
+   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNINASSAU.<br>
+   Foco em desenvolvimento de sistemas web, APIs, backend com C#, e frontend com Angular/React.<br>
+   Buscando sempre evoluir com projetos práticos, desafios técnicos e boas práticas de código limpo.
 </p>
 
 <p align="center">
@@ -21,14 +21,14 @@
 
 ---
 
-## 🧠 Sobre Mim
+##  Sobre Mim
 
 Sou apaixonado por tecnologia, com foco em backend, APIs REST e sistemas bem estruturados.  
 Atuo com C#, Python, Java, Angular, React e bancos de dados como PostgreSQL e MongoDB.
 
 ---
 
-## 🛠️ Habilidades
+##  Habilidades
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
@@ -48,23 +48,23 @@ Atuo com C#, Python, Java, Angular, React e bancos de dados como PostgreSQL e Mo
 
 ---
 
-## 🧩 Projetos em Destaque
+## Projetos em Destaque
 
-- 🚗 **Sistema de Estacionamento em C#**
+-  **Sistema de Estacionamento em C#**
   - Cadastro de veículos, controle de tempo e relatórios usando POO.
 
-- 📋 **Gerenciador de Tarefas (C# + EF)**
+-  **Gerenciador de Tarefas (C# + EF)**
   - Web API com CRUD completo, banco SQL e Entity Framework.
 
-- 🌐 **Site Pessoal com Angular**
+-  **Site Pessoal com Angular**
   - HTML, CSS e TypeScript com design responsivo.
 
-- 🧾 **API de Obrigações Fiscais (FastAPI)**
+-  **API de Obrigações Fiscais (FastAPI)**
   - API REST com PostgreSQL, SQLAlchemy e estrutura modular de entidades.
 
 ---
 
-## 🏅 Certificações
+##  Certificações
 
 | Curso | Data | Status | Conteúdo |
 |-------|------|--------|----------|
@@ -75,10 +75,10 @@ Atuo com C#, Python, Java, Angular, React e bancos de dados como PostgreSQL e Mo
 
 ---
 
-## 🎓 Formação Acadêmica
+##  Formação Acadêmica
 
 **UNINASSAU** — Análise e Desenvolvimento de Sistemas  
-📅 Dez/2026 (Previsão) | 🌙 Turno: Noturno
+ Dez/2026 (Previsão) |  Turno: Noturno
 
 
 ---
