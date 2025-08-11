@@ -24,7 +24,7 @@
 ##  Sobre Mim
 
 Sou apaixonado por tecnologia, com foco em backend, APIs REST e sistemas bem estruturados.  
-Atuo com C#, Python, Java, Angular, React e bancos de dados como PostgreSQL e MongoDB.
+Atuo com C#, Php,Python, Angular, React e bancos de dados como PostgreSQL e MongoDB.
 
 ---
 
